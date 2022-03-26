@@ -1,0 +1,15 @@
+The players must input their names before starting the game.There will be two separated 
+dices and coins for two players.The first move of the coin will be done if the value of dice 
+is 1.
+
+When the dice is clicked, the coin will move according to the gained value of the dice. 
+If the coin  lands at the bottom of a  ladder, it will move up to the top of the  ladder.
+If the coin lands on the head of a  snake, it will slide down to the bottom of the  snake.
+
+If anyone's coin of the two players will reach the 100 number,He'll be declared as the 
+winner and  the game will be over.
+
+And the ranking will be created with top five players who have won the game in 
+minimum moves.Moves are counted through dice clicks.
+
+Game can also be quit anytime in anywhere pressing "END" key.
